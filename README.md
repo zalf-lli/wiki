@@ -1,1 +1,1 @@
-# test-wiki
+THis repo exists only for hosting the organisation wide wiki
